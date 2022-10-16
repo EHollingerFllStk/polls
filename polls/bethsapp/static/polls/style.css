@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+body {
+    /* background: pink; */
+    /* background: white url("images/background.jpeg") no-repeat; */
+    /* background-image: url("images/background.jpeg"); */
+    background-repeat: no-repeat;
+}
